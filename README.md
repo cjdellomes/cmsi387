@@ -1,2 +1,2 @@
-# CMSI387
+# cmsi387
 LMU CMSI 387 Operating Systems
