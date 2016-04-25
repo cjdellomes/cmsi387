@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.23)  18 APR 2016 05:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.9.23)  25 APR 2016 11:06
 entering extended mode
 **"C:/Users/Christopher/CMSI387/OS Paper/DiningPhilosophers.tex"
 ("C:/Users/Christopher/CMSI387/OS Paper/DiningPhilosophers.tex"
@@ -328,11 +328,11 @@ LaTeX Font Info:    ... okay on input line 7.
 \everyMPtoPDFconversion=\toks20
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 17.
  [1
 
 {C:/Users/Christopher/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
@@ -342,72 +342,43 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: diningphilosophers.jpg Graphic file (type jpg)
 
 <use diningphilosophers.jpg>
-Package pdftex.def Info: diningphilosophers.jpg used on input line 38.
+Package pdftex.def Info: diningphilosophers.jpg used on input line 39.
 (pdftex.def)             Requested size: 68.99895pt x 68.99997pt.
  <resource.png, id=15, 401.5pt x 401.5pt>
 File: resource.png Graphic file (type png)
 
 <use resource.png>
-Package pdftex.def Info: resource.png used on input line 47.
+Package pdftex.def Info: resource.png used on input line 48.
 (pdftex.def)             Requested size: 103.50105pt x 103.4992pt.
-
-Overfull \hbox (4.27835pt too wide) in paragraph at lines 52--53
+ [2 <./diningphilosophers.jpg>]
+Overfull \hbox (4.27835pt too wide) in paragraph at lines 53--54
 []\OT1/cmr/m/n/10 Dijkstra's so-lu-tion en-sures that there is no dead-lock sit
 -u-a-tion be-tween philoso-
  []
 
-[2 <./diningphilosophers.jpg> <./resource.png (PNG copy)>] [3]
-<clean.png, id=22, 401.5pt x 401.5pt>
+[3 <./resource.png (PNG copy)>] <clean.png, id=22, 401.5pt x 401.5pt>
 File: clean.png Graphic file (type png)
- <use clean.png>
-Package pdftex.def Info: clean.png used on input line 62.
+
+<use clean.png>
+Package pdftex.def Info: clean.png used on input line 63.
 (pdftex.def)             Requested size: 103.50105pt x 103.4992pt.
- [4 <./clean.png (PNG copy)>]
-Underfull \hbox (badness 4132) in paragraph at lines 73--74
-[]\OT1/cmr/m/n/10 ``Hierarchical Or-der-ing of Se-quen-tial Pro-cesses", \OT1/c
-mr/m/it/10 Acta-Informatica
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-[]\OT1/cmr/m/n/10 ``The Drink-ing Philoso-phers Prob-lem", \OT1/cmr/m/it/10 ACM
- Trans-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 74--75
-\OT1/cmr/m/it/10 ac-tions on Pro-gram-ming Lan-guages and Sys-tems
- []
-
-
-Overfull \hbox (2.30635pt too wide) in paragraph at lines 74--75
-\OT1/cmr/m/n/10 https://www.cs.utexas.edu/users/misra/scannedPdf.dir/DrinkingPh
-il.pdf 
- []
-
-
-Overfull \hbox (76.78238pt too wide) in paragraph at lines 75--76
-[]\OT1/cmr/m/n/10 ``EWD625". \OT1/cmr/m/it/10 Plataanstrat \OT1/cmr/m/n/10 http
-s://www.cs.utexas.edu/users/EWD/ewd06xx/EWD625.PDF 
- []
-
-[5] (DiningPhilosophers.aux) ) 
+ [4 <./clean.png (PNG copy)>] [5] (DiningPhilosophers.aux) ) 
 Here is how much of TeX's memory you used:
- 1827 strings out of 493673
- 22975 string characters out of 3143942
- 88049 words of memory out of 3000000
- 5178 multiletter control sequences out of 15000+200000
+ 1828 strings out of 493673
+ 22985 string characters out of 3143942
+ 88053 words of memory out of 3000000
+ 5179 multiletter control sequences out of 15000+200000
  8233 words of font info for 29 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 27i,6n,23p,1763b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on DiningPhilosophers.pdf (6 pages, 380193 bytes).
+ 27i,6n,23p,1761b,252s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on DiningPhilosophers.pdf (6 pages, 382119 bytes).
 PDF statistics:
  52 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
